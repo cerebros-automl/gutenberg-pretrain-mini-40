@@ -82,10 +82,9 @@ License
 This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
 Acknowledgments
 
-- Thanks to the Cerebros Team, https://github.com/Aidyn-Lopez, https://github.com/Thunderblok, https://github.com/sashakolpakov, https://github.com/Shohail-Ismail, Jeffly, Jennifer, and others who have contributed to the Cerebros project throughout times.
+- Thanks to the Cerebros Team, https://github.com/Aidyn-Lopez, https://github.com/Thunderblok, https://github.com/sashakolpakov, https://github.com/Shohail-Ismail, https://github.com/JordanAllen101, Jeffly, Jennifer, and others who have contributed to the Cerebros project throughout times.
 - Thanks to Swiss AI Lab for the original Gutenberg dataset.
 - Powered by llama.cpp and Hugging Face.
-
 
 
 
